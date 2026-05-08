@@ -1,5 +1,6 @@
 # jw1600.github.io
 SNHU CS499 Computer Science ePortfolio
+
 **Name:** Jian Wang  
 **Program:** Bachelor of Science in Computer Science  
 **GitHub:** [jw1600](https://github.com/jw1600)
