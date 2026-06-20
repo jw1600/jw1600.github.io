@@ -70,7 +70,7 @@ Key Enhancements:
 
 ### Enhanced Artifact
 
-[Download Enhanced Inventory App](artifacts/InventoryApp_Enhanced.zip)
+[Download Enhanced Inventory App](InventoryApp_Enhancement3_Databases.zip)
 
 ---
 
