@@ -19,7 +19,7 @@ The professional self-assessment serves as an introduction to my Computer Scienc
 The code review analyzes the original Android Inventory Tracking Application and identifies enhancement opportunities in software engineering, algorithms and data structures, and databases.
 
 Code Review Video:
-(https://www.youtube.com/watch?v=J_QFsXnip4k)
+[Watch Code Review Video on YouTube](https://www.youtube.com/watch?v=J_QFsXnip4k)
 
 ---
 
