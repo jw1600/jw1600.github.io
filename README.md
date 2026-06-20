@@ -1,7 +1,8 @@
-# Jian Wang – Computer Science ePortfolio
+# Jian Wang – CS 499 Computer Science ePortfolio
 
-Bachelor of Science in Computer Science  
-Southern New Hampshire University
+**Bachelor of Science in Computer Science**  
+Southern New Hampshire University  
+June 2026
 
 ---
 
