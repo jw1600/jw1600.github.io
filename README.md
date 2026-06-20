@@ -9,7 +9,7 @@ Southern New Hampshire University
 
 The professional self-assessment serves as an introduction to my Computer Science ePortfolio and summarizes the knowledge, skills, and experience I developed throughout the SNHU Computer Science program.
 
-[View Professional Self-Assessment](self-assessment.md)
+[View Professional Self-Assessment](Professional_Self_Assessment.docx)
 
 ---
 
