@@ -26,7 +26,7 @@ Code Review Video:
 
 ### Enhancement One – Software Design and Engineering
 
-[View Enhancement One Narrative](enhancement1.md)
+[View Enhancement One Narrative](3-2 Milestone Two Enhancement One Software Design and Engineering.docx)
 
 Key Enhancements:
 
@@ -39,7 +39,7 @@ Key Enhancements:
 
 ### Enhancement Two – Algorithms and Data Structures
 
-[View Enhancement Two Narrative](enhancement2.md)
+[View Enhancement Two Narrative](4-2 Milestone Three Enhancement Two Algorithms and Data Structure.docx)
 
 Key Enhancements:
 
@@ -51,7 +51,7 @@ Key Enhancements:
 
 ### Enhancement Three – Databases
 
-[View Enhancement Three Narrative](enhancement3.md)
+[View Enhancement Three Narrative](5-2 Milestone Four Enhancement Three Databases.docx)
 
 Key Enhancements:
 
