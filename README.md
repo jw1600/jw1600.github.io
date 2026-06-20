@@ -66,7 +66,7 @@ Key Enhancements:
 
 ### Original Artifact
 
-[Download Original Inventory App](artifacts/InventoryApp_Original.zip)
+[Download Original Inventory App](InventoryApp_Original.zip)
 
 ### Enhanced Artifact
 
