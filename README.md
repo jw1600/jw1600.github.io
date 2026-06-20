@@ -26,7 +26,7 @@ Code Review Video:
 
 ### Enhancement One – Software Design and Engineering
 
-[View Enhancement One Narrative](3-2 Milestone Two Enhancement One Software Design and Engineering.docx)
+[View Enhancement One Narrative](3-2%Milestone%Two%Enhancement%One%Software%Design%and%Engineering.docx)
 
 Key Enhancements:
 
